@@ -1,2 +1,1 @@
-# kado
--
+dandyfikri.github.io
